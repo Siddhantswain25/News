@@ -1,0 +1,2 @@
+# News
+A simple newspaper application which lets a view latest news and gives an option to refresh to see more updated news. The navigation bar has news from different categories and the user can view different contents between a specific date range. News source is from The Guardian UK (The news source: http://open-platform.theguardian.com/documentation and the user must logon to get access to a personal, unique one time API key).
